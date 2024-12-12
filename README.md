@@ -81,7 +81,7 @@ Esta plataforma es una herramienta avanzada impulsada por inteligencia artificia
 
 ---
 
-## **Estructura del proyecto
+## Estructura del proyecto
 
 plataforma-ai-cancer-pulmon/
 ├── app.py                 # Archivo principal de Streamlit.
@@ -98,12 +98,12 @@ plataforma-ai-cancer-pulmon/
 
 ---
 
-## **Aclaraciones importantes
+## Aclaraciones importantes
 - Esta plataforma no reemplaza el diagnóstico médico profesional.
 - Los resultados del modelo están diseñados para asistir y complementar el juicio clínico, pero siempre deben confirmarse mediante estudios adicionales y evaluación médica.
 
 ---
-## **Contribuciones
+## Contribuciones
 
 ¡Tu colaboración es bienvenida! Si tienes sugerencias, ideas o deseas contribuir al proyecto:
 
