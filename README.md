@@ -114,7 +114,7 @@ plataforma-ai-cancer-pulmon/
    ```
 3. Realiza un pull request describiendo tus cambios.
 ---
-## **Créditos
+## Créditos
 
 - Desarrollador principal: Sara Salmón Fernández
 - Inspiración y objetivo: Crear una plataforma educativa y de soporte para análisis médico con IA.
