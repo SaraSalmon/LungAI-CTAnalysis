@@ -84,17 +84,18 @@ Esta plataforma es una herramienta avanzada impulsada por inteligencia artificia
 ## Estructura del proyecto
 
 plataforma-ai-cancer-pulmon/
-├── app.py                 # Archivo principal de Streamlit.
-├── modelo_con_gradcam.h5  # Modelo preentrenado de TensorFlow.
+├── app.py                 # Archivo principal de Streamlit
+├── modelo_con_gradcam.h5  # Modelo preentrenado de TensorFlow
 ├── utils/
-│   ├── grad_cam.py        # Funciones para calcular y mostrar Grad-CAM.
-│   ├── pdf_generator.py   # Función para generar informes en PDF.
-│   └── preprocess.py      # Funciones para preprocesamiento de imágenes.
+│   ├── grad_cam.py        # Funciones para calcular y mostrar Grad-CAM
+│   ├── pdf_generator.py   # Función para generar informes en PDF
+│   └── preprocess.py      # Funciones para preprocesamiento de imágenes
 ├── assets/
-│   ├── logo.png           # Logo de la plataforma.
-│   └── ejemplo.png        # Imagen de ejemplo.
-├── README.md              # Descripción del proyecto.
-└── requirements.txt       # Dependencias del proyecto.
+│   ├── logo.png           # Logo de la plataforma
+│   └── ejemplo.png        # Imagen de ejemplo
+├── README.md              # Descripción del proyecto
+└── requirements.txt       # Dependencias del proyecto
+
 
 ---
 
