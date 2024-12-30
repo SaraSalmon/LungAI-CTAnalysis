@@ -83,6 +83,7 @@ Esta plataforma es una herramienta avanzada impulsada por inteligencia artificia
 
 ## Estructura del proyecto
 
+```
 plataforma-ai-cancer-pulmon/
 ├── app.py                 # Archivo principal de Streamlit
 ├── modelo_con_gradcam.h5  # Modelo preentrenado de TensorFlow
@@ -95,7 +96,7 @@ plataforma-ai-cancer-pulmon/
 │   └── ejemplo.png        # Imagen de ejemplo
 ├── README.md              # Descripción del proyecto
 └── requirements.txt       # Dependencias del proyecto
-
+```
 
 ---
 
