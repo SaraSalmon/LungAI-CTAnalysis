@@ -88,9 +88,9 @@ Esta plataforma es una herramienta avanzada impulsada por inteligencia artificia
 ```
 plataforma-ai-cancer-pulmon/
 ├── app.py                 # Archivo principal de Streamlit
-├── LungAI_CV.ipynb  # # Notebook de análisis y visualización del modelo 
+├── LungAI_CV.ipynb        # Notebook de análisis y visualización del modelo 
 ├── assets/
-│   ├── LungAI.webp         # Logo de la plataforma
+│   ├── LungAI.webp        # Logo de la plataforma
 └── README.md              # Descripción del proyecto
 ```
 
