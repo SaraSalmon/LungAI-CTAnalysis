@@ -6,6 +6,8 @@ LungAI - Plataforma de Apoyo para la Detección de Cáncer de Pulmón
 Esta plataforma es una herramienta avanzada impulsada por inteligencia artificial (IA) diseñada para asistir a médicos en la detección y análisis de cáncer de pulmón a partir de imágenes de tomografías computarizadas (CT-Scans). Combina modelos de aprendizaje profundo con visualización de mapas de calor (Grad-CAM) para identificar posibles áreas de interés, y permite generar informes profesionales con predicciones y observaciones.
 
 ---
+> **Nota:** Algunos archivos del proyecto, como datos confidenciales o modelos preentrenados, han sido excluidos del repositorio por razones de privacidad. Para obtener más información o solicitar acceso a estos archivos, por favor, contáctame.
+---
 
 ## **Características principales**
 
@@ -86,16 +88,10 @@ Esta plataforma es una herramienta avanzada impulsada por inteligencia artificia
 ```
 plataforma-ai-cancer-pulmon/
 ├── app.py                 # Archivo principal de Streamlit
-├── modelo_con_gradcam.h5  # Modelo preentrenado de TensorFlow
-├── utils/
-│   ├── grad_cam.py        # Funciones para calcular y mostrar Grad-CAM
-│   ├── pdf_generator.py   # Función para generar informes en PDF
-│   └── preprocess.py      # Funciones para preprocesamiento de imágenes
+├── LungAI_CV.ipynb  # # Notebook de análisis y visualización del modelo 
 ├── assets/
-│   ├── logo.png           # Logo de la plataforma
-│   └── ejemplo.png        # Imagen de ejemplo
-├── README.md              # Descripción del proyecto
-└── requirements.txt       # Dependencias del proyecto
+│   ├── LungAI.webp         # Logo de la plataforma
+└── README.md              # Descripción del proyecto
 ```
 
 ---
